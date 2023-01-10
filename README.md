@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Gisele Portella</h1>
 <h3 align="center">Fullstack Web Developer</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/gisele-viedenhelfen-6a7940212/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gisele-viedenhelfen-portella" height="30" width="40" /></a>
 </p>
   🏠 I’m currently living at Porto Alegre, Brazil
